@@ -1,7 +1,5 @@
 # maximum-consecutive-sum
 
-__
-
 -- Print the maximum consecutive sum of k elements in an array.
 
 -- Input:-
